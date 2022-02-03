@@ -1,0 +1,109 @@
+body{
+    text-align: center;
+}
+p{
+    width: 50%;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    line-height: 2;
+}
+h1{
+    padding: 2rem;
+}
+h3{
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+.logo{
+    width: 20px;
+    height: 20px;
+}
+.colored{
+    background-color: hsl(28, 100%, 67%);
+    color: white;
+}
+.some-info{
+    padding: 10.5% 15%;
+    font-size: 2rem;
+}
+.big-name{
+    font-size: 100px;
+}
+.aboutme{
+    font-weight:normal;
+}
+.bold{
+    font-weight: bolder;
+}
+.my-pic{
+    width: 300px;
+    height: 300px;
+    border-radius: 5%;
+    margin: 2rem 0;
+}
+#personal-strength{
+    padding: 7% 15%;
+}
+
+.personal-img2{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 2rem;
+}
+#skills{
+    padding: 7%;
+}
+.skills-icons{
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+}
+.award{
+    padding: 7% 0;
+}
+.bolder{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+#social-media{
+    padding: 7%;
+}
+.social-icons{
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 20%;
+}
+#contact-me{
+    padding: 8.5%;
+}
+.button-area{
+    padding: 20px;
+}
+.btn{
+    padding: 10 20px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 4%;
+}
+#btn-back-to-top {
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  .scroll-top{
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  .scroll-top:hover{
+    width: 35px;
+    height: 35px;
+  }
